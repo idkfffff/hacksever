@@ -1,2 +1,0 @@
-# hacksever
-c
