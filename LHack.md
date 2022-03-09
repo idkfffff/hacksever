@@ -70,6 +70,7 @@ blur:Destroy()
 wait(0.5)
 if PlaceId == 8645723106 then
         loadstring(game:HttpGet(('https://raw.githubusercontent.com/idkfffff/kkk/main/kkkk'),true))()
+	ScreenGui:Destroy()
 else
 	game.Players.LocalPlayer:kick("Sus")
 	wait(2)
